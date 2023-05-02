@@ -1,6 +1,6 @@
 # Satellite precipitation evaluation for hydrological modeling 
 
-Scripts for satellite data extraction and analysis 
+## Scripts for satellite data extraction and analysis 
 
 ## Acknowledgements
 
